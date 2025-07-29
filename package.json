@@ -3,7 +3,7 @@
   "displayName": "WP Template Navigator",
   "description": "导航 WordPress get_template_part 模板",
   "version": "0.0.1",
-  "publisher": "SupeR",
+  "publisher": "SupeR92",
   "engines": {
     "vscode": "^1.50.0"
   },

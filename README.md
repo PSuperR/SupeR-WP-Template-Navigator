@@ -1,7 +1,7 @@
 # WP Template Navigator
 
 **版本:** 0.0.1  
-**作者:** SupeR  
+**作者:** SupeR92  
 **贡献者:** ChatGPT 协助开发  
 **仓库:** https://github.com/PSuperR/SupeR-WP-Template-Navigator
 
