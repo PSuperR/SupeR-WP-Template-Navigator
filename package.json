@@ -1,0 +1,32 @@
+{
+  "name": "SupeR-wp-template-navigator",
+  "displayName": "WP Template Navigator",
+  "description": "导航 WordPress get_template_part 模板",
+  "version": "0.0.1",
+  "publisher": "SupeR",
+  "engines": {
+    "vscode": "^1.50.0"
+  },
+  "activationEvents": [
+    "onLanguage:php"
+  ],
+  "main": "extension.js",
+  "contributes": {
+    "languages": [
+      {
+        "id": "php",
+        "extensions": [
+          ".php"
+        ],
+        "aliases": [
+          "PHP"
+        ]
+      }
+    ]
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PSuperR/SupeR-WP-Template-Navigator"
+  }
+}
