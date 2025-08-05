@@ -3,8 +3,8 @@
 **版本:** 0.0.1  
 **作者:** SupeR92  
 **贡献者:** ChatGPT 协助开发  
-**仓库:** https://github.com/PSuperR/SupeR-WP-Template-Navigator
-**VsCode插件库:** https://marketplace.visualstudio.com/items?itemName=SupeR92.SupeR-wp-template-navigator
+**仓库:** https://github.com/PSuperR/SupeR-WP-Template-Navigator  
+**VsCode插件库:** https://marketplace.visualstudio.com/items?itemName=SupeR92.SupeR-wp-template-navigator  
 
 ---
 
@@ -79,4 +79,5 @@ MIT License © 2025 SupeR
 本项目部分代码和方案由 AI 助手 ChatGPT 协助完成，感谢其智能建议与支持。
 
 ---
+
 
