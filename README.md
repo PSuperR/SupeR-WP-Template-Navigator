@@ -24,7 +24,7 @@ WP Template Navigator 是一个针对 WordPress 开发的 VSCode 插件，能够
 2. 在 VSCode 中打开插件目录，执行 `npm install`（如有依赖）  
 3. 启动 VSCode，打开 WordPress PHP 项目即可自动激活
    
-或者下载  .vsix  文件在vscode中选择   从vsix安装
+   或者下载  .vsix  文件在vscode中选择   从vsix安装
 ---
 
 ## 使用方法
@@ -80,6 +80,7 @@ MIT License © 2025 SupeR
 本项目部分代码和方案由 AI 助手 ChatGPT 协助完成，感谢其智能建议与支持。
 
 ---
+
 
 
 
